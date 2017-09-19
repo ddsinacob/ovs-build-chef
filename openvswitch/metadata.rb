@@ -1,6 +1,6 @@
 name 'openvswitch'
 maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer_email 'dilipdebsingha@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures openvswitch'
 long_description 'Installs/Configures openvswitch'
